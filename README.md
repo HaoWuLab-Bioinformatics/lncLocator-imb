@@ -7,7 +7,7 @@ This is a repository of codes of lncLocator-imb. You can download the benchmark 
 
 The environment on our computer is as follows:
 * Python 3.8.3
-* PyTorch 1.3.1
+* PyTorch 1.8
 * Pandas 1.0.1
 * NumPy 1.18.1
 * scikit-learn 0.22.1
